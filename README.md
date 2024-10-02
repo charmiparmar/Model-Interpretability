@@ -23,6 +23,7 @@ Variables include the percentage of the premium paid by cash or credit, age in d
 ## Installation
 ```bash
 pip install shap lime requests tabulate "colorama>=0.3.8" future h2o
+```
 
 ---
 
